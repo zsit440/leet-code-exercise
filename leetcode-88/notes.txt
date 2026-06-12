@@ -1,0 +1,2 @@
+Method 1 Simple Way - Just merge two lists and sort. Handle if else
+Method 2 - two pointers
